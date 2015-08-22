@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Song1/Documents/StudioProjects/cannonball-android/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.6.2/res/values-v11/values-v11.xml -->
+    <eat-comment/>
+    <style name="Digits_default" parent="@android:style/Theme.Holo.Light">
+        <item name="dgts__accentColor">@color/dgts__default_accent</item>
+    </style>
+</resources>

@@ -1,0 +1,1289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <!-- From: file:/C:/Users/Song1/Documents/StudioProjects/cannonball-android/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string-array name="images_adventure">
+        <item>th_adventure_01</item>
+        <item>th_adventure_02</item>
+        <item>th_adventure_03</item>
+        <item>th_adventure_04</item>
+        <item>th_adventure_05</item>
+        <item>th_adventure_06</item>
+    </string-array>
+    <string-array name="images_mystery">
+        <item>th_mystery_01</item>
+        <item>th_mystery_02</item>
+        <item>th_mystery_03</item>
+        <item>th_mystery_04</item>
+        <item>th_mystery_05</item>
+        <item>th_mystery_06</item>
+    </string-array>
+    <string-array name="images_nature">
+        <item>th_nature_01</item>
+        <item>th_nature_02</item>
+        <item>th_nature_03</item>
+        <item>th_nature_04</item>
+        <item>th_nature_05</item>
+        <item>th_nature_06</item>
+    </string-array>
+    <string-array name="images_romance">
+        <item>th_romance_01</item>
+        <item>th_romance_02</item>
+        <item>th_romance_03</item>
+        <item>th_romance_04</item>
+        <item>th_romance_05</item>
+        <item>th_romance_06</item>
+    </string-array>
+    <string-array name="themes">
+        <item>adventure</item>
+        <item>mystery</item>
+        <item>nature</item>
+        <item>romance</item>
+    </string-array>
+    <string-array name="wordbank_adventure">
+        <item>&amp;</item>
+        <item>a</item>
+        <item>a</item>
+        <item>about</item>
+        <item>always</item>
+        <item>am</item>
+        <item>and</item>
+        <item>an</item>
+        <item>another</item>
+        <item>are</item>
+        <item>as</item>
+        <item>at</item>
+        <item>begin</item>
+        <item>between</item>
+        <item>but</item>
+        <item>by</item>
+        <item>can</item>
+        <item>d</item>
+        <item>day</item>
+        <item>delicious</item>
+        <item>es</item>
+        <item>every</item>
+        <item>everyone</item>
+        <item>everything</item>
+        <item>fantastic</item>
+        <item>fresh</item>
+        <item>from</item>
+        <item>good</item>
+        <item>have</item>
+        <item>he</item>
+        <item>hear</item>
+        <item>heart</item>
+        <item>her</item>
+        <item>here</item>
+        <item>his</item>
+        <item>how</item>
+        <item>I</item>
+        <item>I</item>
+        <item>if</item>
+        <item>in</item>
+        <item>in</item>
+        <item>ing</item>
+        <item>ing</item>
+        <item>is</item>
+        <item>is</item>
+        <item>it</item>
+        <item>lay</item>
+        <item>life</item>
+        <item>like</item>
+        <item>like</item>
+        <item>live</item>
+        <item>love</item>
+        <item>lovely</item>
+        <item>ly</item>
+        <item>make</item>
+        <item>marvel</item>
+        <item>more</item>
+        <item>must</item>
+        <item>my</item>
+        <item>need</item>
+        <item>no</item>
+        <item>no</item>
+        <item>nothing</item>
+        <item>of</item>
+        <item>of</item>
+        <item>on</item>
+        <item>only</item>
+        <item>or</item>
+        <item>our</item>
+        <item>out</item>
+        <item>pack</item>
+        <item>s</item>
+        <item>s</item>
+        <item>sleep</item>
+        <item>the</item>
+        <item>the</item>
+        <item>then</item>
+        <item>there</item>
+        <item>they</item>
+        <item>through</item>
+        <item>too</item>
+        <item>try</item>
+        <item>up</item>
+        <item>us</item>
+        <item>use</item>
+        <item>was</item>
+        <item>we</item>
+        <item>were</item>
+        <item>which</item>
+        <item>who</item>
+        <item>why</item>
+        <item>will</item>
+        <item>with</item>
+        <item>with</item>
+        <item>wonder</item>
+        <item>world</item>
+        <item>would</item>
+        <item>wrap</item>
+        <item>y</item>
+        <item>you</item>
+        <item>be</item>
+        <item>better</item>
+        <item>bring</item>
+        <item>burn</item>
+        <item>come</item>
+        <item>did</item>
+        <item>do</item>
+        <item>e</item>
+        <item>ed</item>
+        <item>er</item>
+        <item>favorite</item>
+        <item>for</item>
+        <item>give</item>
+        <item>has</item>
+        <item>him</item>
+        <item>hot</item>
+        <item>know</item>
+        <item>ly</item>
+        <item>me</item>
+        <item>more</item>
+        <item>my</item>
+        <item>perfection</item>
+        <item>poet</item>
+        <item>quiet</item>
+        <item>r</item>
+        <item>see</item>
+        <item>she</item>
+        <item>so</item>
+        <item>some</item>
+        <item>sweet</item>
+        <item>than</item>
+        <item>that</item>
+        <item>this</item>
+        <item>though</item>
+        <item>your</item>
+        <item>country</item>
+        <item>cover</item>
+        <item>cut</item>
+        <item>top</item>
+    </string-array>
+    <string-array name="wordbank_mystery">
+        <item>&amp;</item>
+        <item>a</item>
+        <item>a</item>
+        <item>about</item>
+        <item>always</item>
+        <item>am</item>
+        <item>an</item>
+        <item>and</item>
+        <item>another</item>
+        <item>are</item>
+        <item>as</item>
+        <item>at</item>
+        <item>be</item>
+        <item>begin</item>
+        <item>better</item>
+        <item>between</item>
+        <item>bring</item>
+        <item>burn</item>
+        <item>but</item>
+        <item>by</item>
+        <item>can</item>
+        <item>come</item>
+        <item>cover</item>
+        <item>cut</item>
+        <item>d</item>
+        <item>day</item>
+        <item>did</item>
+        <item>do</item>
+        <item>e</item>
+        <item>ed</item>
+        <item>elixir</item>
+        <item>er</item>
+        <item>es</item>
+        <item>every</item>
+        <item>everyone</item>
+        <item>everything</item>
+        <item>fantastic</item>
+        <item>favorite</item>
+        <item>for</item>
+        <item>from</item>
+        <item>give</item>
+        <item>good</item>
+        <item>has</item>
+        <item>have</item>
+        <item>he</item>
+        <item>hear</item>
+        <item>heart</item>
+        <item>her</item>
+        <item>here</item>
+        <item>him</item>
+        <item>his</item>
+        <item>hot</item>
+        <item>how</item>
+        <item>I</item>
+        <item>I</item>
+        <item>if</item>
+        <item>in</item>
+        <item>in</item>
+        <item>ing</item>
+        <item>ing</item>
+        <item>is</item>
+        <item>is</item>
+        <item>it</item>
+        <item>know</item>
+        <item>lay</item>
+        <item>life</item>
+        <item>like</item>
+        <item>like</item>
+        <item>live</item>
+        <item>love</item>
+        <item>lovely</item>
+        <item>ly</item>
+        <item>ly</item>
+        <item>make</item>
+        <item>marvel</item>
+        <item>me</item>
+        <item>more</item>
+        <item>more</item>
+        <item>must</item>
+        <item>my</item>
+        <item>my</item>
+        <item>need</item>
+        <item>night</item>
+        <item>no</item>
+        <item>nothing</item>
+        <item>of</item>
+        <item>of</item>
+        <item>on</item>
+        <item>only</item>
+        <item>or</item>
+        <item>our</item>
+        <item>out</item>
+        <item>perfection</item>
+        <item>poet</item>
+        <item>quiet</item>
+        <item>r</item>
+        <item>s</item>
+        <item>s</item>
+        <item>see</item>
+        <item>she</item>
+        <item>sleep</item>
+        <item>so</item>
+        <item>some</item>
+        <item>sweet</item>
+        <item>than</item>
+        <item>that</item>
+        <item>the</item>
+        <item>the</item>
+        <item>then</item>
+        <item>there</item>
+        <item>they</item>
+        <item>this</item>
+        <item>though</item>
+        <item>through</item>
+        <item>too</item>
+        <item>top</item>
+        <item>try</item>
+        <item>up</item>
+        <item>us</item>
+        <item>use</item>
+        <item>was</item>
+        <item>we</item>
+        <item>were</item>
+        <item>which</item>
+        <item>who</item>
+        <item>why</item>
+        <item>will</item>
+        <item>with</item>
+        <item>with</item>
+        <item>wonder</item>
+        <item>wood</item>
+        <item>world</item>
+        <item>would</item>
+        <item>wrap</item>
+        <item>y</item>
+        <item>you</item>
+        <item>your</item>
+    </string-array>
+    <string-array name="wordbank_nature">
+        <item>&amp;</item>
+        <item>a</item>
+        <item>a</item>
+        <item>about</item>
+        <item>air</item>
+        <item>alive</item>
+        <item>alpine</item>
+        <item>always</item>
+        <item>am</item>
+        <item>an</item>
+        <item>and</item>
+        <item>another</item>
+        <item>are</item>
+        <item>aroma</item>
+        <item>as</item>
+        <item>at</item>
+        <item>backpack</item>
+        <item>be</item>
+        <item>begin</item>
+        <item>better</item>
+        <item>between</item>
+        <item>bluebird</item>
+        <item>bring</item>
+        <item>burn</item>
+        <item>but</item>
+        <item>by</item>
+        <item>can</item>
+        <item>come</item>
+        <item>cover</item>
+        <item>crisp</item>
+        <item>cut</item>
+        <item>d</item>
+        <item>day</item>
+        <item>did</item>
+        <item>do</item>
+        <item>e</item>
+        <item>ed</item>
+        <item>er</item>
+        <item>es</item>
+        <item>every</item>
+        <item>everyone</item>
+        <item>everything</item>
+        <item>fantastic</item>
+        <item>favorite</item>
+        <item>flower</item>
+        <item>for</item>
+        <item>fresh</item>
+        <item>from</item>
+        <item>give</item>
+        <item>good</item>
+        <item>has</item>
+        <item>have</item>
+        <item>he</item>
+        <item>hear</item>
+        <item>heart</item>
+        <item>her</item>
+        <item>here</item>
+        <item>him</item>
+        <item>his</item>
+        <item>hot</item>
+        <item>how</item>
+        <item>I</item>
+        <item>I</item>
+        <item>if</item>
+        <item>in</item>
+        <item>in</item>
+        <item>ing</item>
+        <item>ing</item>
+        <item>is</item>
+        <item>is</item>
+        <item>it</item>
+        <item>know</item>
+        <item>lay</item>
+        <item>life</item>
+        <item>like</item>
+        <item>like</item>
+        <item>live</item>
+        <item>living</item>
+        <item>love</item>
+        <item>lovely</item>
+        <item>ly</item>
+        <item>ly</item>
+        <item>make</item>
+        <item>marvel</item>
+        <item>me</item>
+        <item>more</item>
+        <item>more</item>
+        <item>morning</item>
+        <item>must</item>
+        <item>my</item>
+        <item>my</item>
+        <item>need</item>
+        <item>no</item>
+        <item>no</item>
+        <item>nothing</item>
+        <item>oak</item>
+        <item>of</item>
+        <item>of</item>
+        <item>on</item>
+        <item>only</item>
+        <item>or</item>
+        <item>our</item>
+        <item>out</item>
+        <item>park</item>
+        <item>perfection</item>
+        <item>poet</item>
+        <item>quiet</item>
+        <item>r</item>
+        <item>rain</item>
+        <item>s</item>
+        <item>s</item>
+        <item>see</item>
+        <item>she</item>
+        <item>sleep</item>
+        <item>so</item>
+        <item>some</item>
+        <item>than</item>
+        <item>that</item>
+        <item>the</item>
+        <item>the</item>
+        <item>then</item>
+        <item>there</item>
+        <item>they</item>
+        <item>this</item>
+        <item>though</item>
+        <item>through</item>
+        <item>too</item>
+        <item>top</item>
+        <item>tree</item>
+        <item>try</item>
+        <item>up</item>
+        <item>us</item>
+        <item>use</item>
+        <item>was</item>
+        <item>we</item>
+        <item>were</item>
+        <item>which</item>
+        <item>who</item>
+        <item>why</item>
+        <item>will</item>
+        <item>with</item>
+        <item>with</item>
+        <item>wonder</item>
+        <item>wood</item>
+        <item>world</item>
+        <item>would</item>
+        <item>y</item>
+        <item>you</item>
+        <item>your</item>
+    </string-array>
+    <string-array name="wordbank_romance">
+        <item>&amp;</item>
+        <item>a</item>
+        <item>a</item>
+        <item>about</item>
+        <item>always</item>
+        <item>am</item>
+        <item>and</item>
+        <item>an</item>
+        <item>another</item>
+        <item>are</item>
+        <item>as</item>
+        <item>at</item>
+        <item>begin</item>
+        <item>between</item>
+        <item>but</item>
+        <item>by</item>
+        <item>can</item>
+        <item>craved</item>
+        <item>day</item>
+        <item>es</item>
+        <item>every</item>
+        <item>everyone</item>
+        <item>everything</item>
+        <item>from</item>
+        <item>good</item>
+        <item>have</item>
+        <item>he</item>
+        <item>hear</item>
+        <item>heart</item>
+        <item>her</item>
+        <item>here</item>
+        <item>his</item>
+        <item>how</item>
+        <item>I</item>
+        <item>I</item>
+        <item>if</item>
+        <item>in</item>
+        <item>in</item>
+        <item>ing</item>
+        <item>ing</item>
+        <item>is</item>
+        <item>is</item>
+        <item>it</item>
+        <item>life</item>
+        <item>like</item>
+        <item>like</item>
+        <item>live</item>
+        <item>love</item>
+        <item>lovely</item>
+        <item>ly</item>
+        <item>make</item>
+        <item>mouth</item>
+        <item>must</item>
+        <item>my</item>
+        <item>need</item>
+        <item>no</item>
+        <item>no</item>
+        <item>nothing</item>
+        <item>of</item>
+        <item>of</item>
+        <item>on</item>
+        <item>only</item>
+        <item>or</item>
+        <item>our</item>
+        <item>out</item>
+        <item>perfume</item>
+        <item>s</item>
+        <item>s</item>
+        <item>sleep</item>
+        <item>the</item>
+        <item>the</item>
+        <item>then</item>
+        <item>there</item>
+        <item>they</item>
+        <item>through</item>
+        <item>too</item>
+        <item>try</item>
+        <item>up</item>
+        <item>us</item>
+        <item>use</item>
+        <item>was</item>
+        <item>we</item>
+        <item>were</item>
+        <item>which</item>
+        <item>who</item>
+        <item>why</item>
+        <item>will</item>
+        <item>with</item>
+        <item>with</item>
+        <item>wonder</item>
+        <item>world</item>
+        <item>would</item>
+        <item>wrap</item>
+        <item>y</item>
+        <item>you</item>
+        <item>be</item>
+        <item>better</item>
+        <item>bring</item>
+        <item>burn</item>
+        <item>come</item>
+        <item>desire</item>
+        <item>did</item>
+        <item>do</item>
+        <item>e</item>
+        <item>ed</item>
+        <item>er</item>
+        <item>favorite</item>
+        <item>for</item>
+        <item>give</item>
+        <item>has</item>
+        <item>him</item>
+        <item>hot</item>
+        <item>know</item>
+        <item>ly</item>
+        <item>me</item>
+        <item>more</item>
+        <item>my</item>
+        <item>perfection</item>
+        <item>poet</item>
+        <item>quiet</item>
+        <item>r</item>
+        <item>see</item>
+        <item>she</item>
+        <item>so</item>
+        <item>some</item>
+        <item>sweet</item>
+        <item>than</item>
+        <item>that</item>
+        <item>this</item>
+        <item>though</item>
+        <item>your</item>
+    </string-array>
+    <string-array name="wordbank_suffixes">
+        <item>d</item>
+        <item>es</item>
+        <item>ing</item>
+        <item>ly</item>
+        <item>s</item>
+        <item>y</item>
+        <item>ed</item>
+        <item>r</item>
+        <item>er</item>
+        <item>e</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Song1/Documents/StudioProjects/cannonball-android/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.6.2/res/values/values.xml -->
+    <eat-comment/>
+    <attr format="reference|color" name="dgts__accentColor"/>
+    <!-- From: file:/C:/Users/Song1/Documents/StudioProjects/cannonball-android/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="background_beige">#FFEDD4</color>
+    <!-- From: file:/C:/Users/Song1/Documents/StudioProjects/cannonball-android/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.6.2/res/values/values.xml -->
+    <eat-comment/>
+    <color name="dgts__default_accent">#5baaf4</color>
+    <color name="dgts__default_logo_name">#56626d</color>
+    <color name="dgts__purple">#744eaa</color>
+    <color name="dgts__purple_pressed">#553788</color>
+    <color name="dgts__text_dark">#ff030303</color>
+    <color name="dgts__text_light">#ffffff</color>
+    <!-- From: file:/C:/Users/Song1/Documents/StudioProjects/cannonball-android/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="even_less_transparent">#66000000</color>
+    <color name="full_transparent">#00000000</color>
+    <color name="grayish_blue">#8899A6</color>
+    <color name="green">#00A79B</color>
+    <color name="mopub_brown">#371F1F</color>
+    <color name="not_so_transparent">#44000000</color>
+    <color name="red_font">#EC5959</color>
+    <!-- From: file:/C:/Users/Song1/Documents/StudioProjects/cannonball-android/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.4.1/res/values/values.xml -->
+    <eat-comment/>
+    <color name="tw__blue_default">#FF5BAAF4</color>
+    <color name="tw__blue_pressed">#FF4186C8</color>
+    <color name="tw__blue_pressed_light">#ffe1e8ed</color>
+    <color name="tw__light_gray">#ccd6dd</color>
+    <color name="tw__medium_gray">#8899a6</color>
+    <color name="tw__solid_white">#FFFFFFFF</color>
+    <color name="tw__transparent">#00000000</color>
+    <!-- From: file:/C:/Users/Song1/Documents/StudioProjects/cannonball-android/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.3.1/res/values/values.xml -->
+    <eat-comment/>
+    <color name="tw__tweet_action_color">#55acee</color>
+    <color name="tw__tweet_container_border">#1a000000</color>
+    <color name="tw__tweet_dark_container_bg_color">#d9000000</color>
+    <color name="tw__tweet_dark_primary_text_color">#e1ffffff</color>
+    <color name="tw__tweet_light_container_bg_color">#ffffff</color>
+    <color name="tw__tweet_light_primary_text_color">#292f33</color>
+    <color name="tw__tweet_media_preview_bg_color">#e5e5e5</color>
+    <!-- From: file:/C:/Users/Song1/Documents/StudioProjects/cannonball-android/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="white">#FFF</color>
+    <declare-styleable name="CountdownView"><attr format="color" name="color"/><attr format="float" name="countdownTime"/><attr format="float" name="currentTime"/></declare-styleable>
+    <declare-styleable name="StateButton"><attr format="string" name="finishStateText"/><attr format="string" name="progressStateText"/><attr format="string" name="startStateText"/><attr format="reference" name="dgts__StateButtonStyle"/></declare-styleable>
+    <declare-styleable name="ToggleImageButton"><attr format="boolean" name="state_toggled_on"/><attr format="string" name="contentDescriptionOn"/><attr format="string" name="contentDescriptionOff"/><attr format="boolean" name="toggleOnClick"/></declare-styleable>
+    <declare-styleable name="tw__AspectRatioImageView"><attr format="float" name="tw__image_aspect_ratio"/><attr format="enum" name="tw__image_dimension_to_adjust"><enum name="height" value="0"/><enum name="width" value="1"/></attr></declare-styleable>
+    <declare-styleable name="tw__TweetView"><attr format="string" name="tw__tweet_id"/><attr format="color" name="tw__container_bg_color"/><attr format="color" name="tw__primary_text_color"/><attr format="color" name="tw__action_color"/><attr format="boolean" name="tw__tweet_actions_enabled"/></declare-styleable>
+    <!-- From: file:/C:/Users/Song1/Documents/StudioProjects/cannonball-android/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="about_cannonball_logo_margin_bottom">0dp</dimen>
+    <dimen name="about_cannonball_logo_margin_top">15dp</dimen>
+    <dimen name="about_crash_checkbox_margin_end">30dp</dimen>
+    <dimen name="about_crash_checkbox_margin_start">30dp</dimen>
+    <dimen name="about_fabric_logo_height">150dp</dimen>
+    <dimen name="about_fabric_logo_width">150dp</dimen>
+    <dimen name="about_instruction_text_margin">5dp</dimen>
+    <dimen name="about_scroll_view_margin">10dp</dimen>
+    <dimen name="about_sign_out_button_padding">20dp</dimen>
+    <dimen name="about_text_size">15sp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="borderless_button_text_size">20sp</dimen>
+    <dimen name="bottom_bar_height">50dp</dimen>
+    <dimen name="countdown_spinner_height">60dp</dimen>
+    <dimen name="countdown_spinner_padding">0dp</dimen>
+    <dimen name="countdown_spinner_width">60dp</dimen>
+    <dimen name="countdown_text_height">30dp</dimen>
+    <dimen name="countdown_text_padding_end">4dp</dimen>
+    <dimen name="countdown_text_padding_start">4dp</dimen>
+    <dimen name="countdown_text_padding_top">3dp</dimen>
+    <dimen name="countdown_text_size">20sp</dimen>
+    <dimen name="countdown_text_width">30dp</dimen>
+    <!-- From: file:/C:/Users/Song1/Documents/StudioProjects/cannonball-android/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.6.2/res/values/values.xml -->
+    <eat-comment/>
+    <dimen name="dgts__country_code_margin_bottom">1dp</dimen>
+    <dimen name="dgts__margin_bottom">16dp</dimen>
+    <dimen name="dgts__padding_container">14dp</dimen>
+    <dimen name="dgts__padding_title">10dp</dimen>
+    <dimen name="dgts__permissions_margin_bottom">18dp</dimen>
+    <dimen name="dgts__progress_bar_side_length">28dp</dimen>
+    <dimen name="dgts__terms_text_size">12sp</dimen>
+    <dimen name="dgts__title_text_size">22sp</dimen>
+    <!-- From: file:/C:/Users/Song1/Documents/StudioProjects/cannonball-android/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="login_button_margin_bottom">20dp</dimen>
+    <dimen name="login_button_margin_end">20dp</dimen>
+    <dimen name="login_button_margin_start">20dp</dimen>
+    <dimen name="login_button_margin_top">10dp</dimen>
+    <dimen name="login_button_text_size">25sp</dimen>
+    <dimen name="mopub_ad_app_property_margin_end">@dimen/mopub_element_spacing</dimen>
+    <dimen name="mopub_ad_app_property_text_size">25sp</dimen>
+    <dimen name="mopub_ad_icon_image_height">40dp</dimen>
+    <dimen name="mopub_ad_icon_image_margin">@dimen/mopub_element_spacing</dimen>
+    <dimen name="mopub_ad_icon_image_width">40dp</dimen>
+    <dimen name="mopub_ad_main_image_margin">10dp</dimen>
+    <dimen name="mopub_ad_text_margin_bottom">@dimen/mopub_element_spacing</dimen>
+    <dimen name="mopub_ad_text_margin_end">@dimen/mopub_element_spacing</dimen>
+    <dimen name="mopub_ad_text_margin_start">@dimen/mopub_element_spacing</dimen>
+    <dimen name="mopub_ad_text_size">17sp</dimen>
+    <dimen name="mopub_ad_unit_container_margin">@dimen/mopub_element_spacing</dimen>
+    <dimen name="mopub_element_spacing">10dp</dimen>
+    <dimen name="mopub_install_button_margin_end">@dimen/mopub_element_spacing</dimen>
+    <dimen name="mopub_install_button_margin_start">@dimen/mopub_element_spacing</dimen>
+    <dimen name="mopub_install_button_margin_top">@dimen/mopub_element_spacing</dimen>
+    <dimen name="mopub_install_button_padding_bottom">8dp</dimen>
+    <dimen name="mopub_install_button_padding_end">20dp</dimen>
+    <dimen name="mopub_install_button_padding_start">20dp</dimen>
+    <dimen name="mopub_install_button_padding_top">8dp</dimen>
+    <dimen name="mopub_install_text_size">18sp</dimen>
+    <dimen name="mopub_sponsored_text_size">25sp</dimen>
+    <dimen name="poem_delete_button_height">40dp</dimen>
+    <dimen name="poem_delete_button_margin_start">22dp</dimen>
+    <dimen name="poem_delete_button_margin_top">15dp</dimen>
+    <dimen name="poem_delete_button_width">40dp</dimen>
+    <dimen name="poem_height">350dp</dimen>
+    <dimen name="poem_list_divider_height">25dp</dimen>
+    <dimen name="poem_padding">0dp</dimen>
+    <dimen name="poem_text_margin_bottom">20dp</dimen>
+    <dimen name="poem_text_padding">10dp</dimen>
+    <dimen name="poem_text_size">25sp</dimen>
+    <dimen name="poem_theme_text_margin_top">20dp</dimen>
+    <dimen name="poem_theme_text_size">25sp</dimen>
+    <dimen name="share_height">40dp</dimen>
+    <dimen name="share_height_px">800px</dimen>
+    <dimen name="share_margin_end">22dp</dimen>
+    <dimen name="share_margin_top">15dp</dimen>
+    <dimen name="share_text_margin_bottom">30px</dimen>
+    <dimen name="share_text_padding">30px</dimen>
+    <dimen name="share_text_size">30px</dimen>
+    <dimen name="share_width">40dp</dimen>
+    <dimen name="share_width_px">800px</dimen>
+    <dimen name="theme_name_font_size">30sp</dimen>
+    <dimen name="theme_name_margin_bottom">10dp</dimen>
+    <dimen name="top_bar_height">70dp</dimen>
+    <dimen name="top_bar_left_side_button_margin_start">20dp</dimen>
+    <dimen name="top_bar_right_side_button_margin_end">20dp</dimen>
+    <dimen name="top_bar_text_size">25sp</dimen>
+    <!-- From: file:/C:/Users/Song1/Documents/StudioProjects/cannonball-android/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.4.1/res/values/values.xml -->
+    <eat-comment/>
+    <dimen name="tw__btn_bar_margin_left">8dp</dimen>
+    <dimen name="tw__btn_bar_margin_right">8dp</dimen>
+    <!-- From: file:/C:/Users/Song1/Documents/StudioProjects/cannonball-android/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.3.1/res/values/values.xml -->
+    <eat-comment/>
+    <dimen name="tw__compact_tweet_attribution_line_margin_right">36dp</dimen>
+    <dimen name="tw__compact_tweet_avatar_margin_left">12dp</dimen>
+    <dimen name="tw__compact_tweet_avatar_margin_right">8dp</dimen>
+    <dimen name="tw__compact_tweet_avatar_margin_top">5.5dp</dimen>
+    <dimen name="tw__compact_tweet_container_padding_bottom">13dp</dimen>
+    <dimen name="tw__compact_tweet_container_padding_top">10.5dp</dimen>
+    <dimen name="tw__compact_tweet_full_name_margin_top">0dp</dimen>
+    <dimen name="tw__compact_tweet_logo_margin_right">12dp</dimen>
+    <dimen name="tw__compact_tweet_logo_margin_top">5dp</dimen>
+    <dimen name="tw__compact_tweet_media_margin_bottom">3dp</dimen>
+    <dimen name="tw__compact_tweet_media_margin_right">12dp</dimen>
+    <dimen name="tw__compact_tweet_media_margin_top">7dp</dimen>
+    <dimen name="tw__compact_tweet_retweeted_by_drawable_padding">7dp</dimen>
+    <dimen name="tw__compact_tweet_retweeted_by_margin_bottom">0dp</dimen>
+    <dimen name="tw__compact_tweet_retweeted_by_margin_left">-25dp</dimen>
+    <dimen name="tw__compact_tweet_retweeted_by_margin_top">0dp</dimen>
+    <dimen name="tw__compact_tweet_screen_name_layout_width">0dp</dimen>
+    <dimen name="tw__compact_tweet_screen_name_margin_bottom">0dp</dimen>
+    <dimen name="tw__compact_tweet_screen_name_margin_top">0dp</dimen>
+    <dimen name="tw__compact_tweet_screen_name_padding_left">3dp</dimen>
+    <dimen name="tw__compact_tweet_text_margin_left">0dp</dimen>
+    <dimen name="tw__compact_tweet_text_margin_right">12dp</dimen>
+    <dimen name="tw__compact_tweet_text_margin_top">1dp</dimen>
+    <dimen name="tw__compact_tweet_timestamp_margin_top">0dp</dimen>
+    <dimen name="tw__font_size_large">16sp</dimen>
+    <dimen name="tw__login_btn_drawable_padding">4dp</dimen>
+    <dimen name="tw__login_btn_height">32dp</dimen>
+    <dimen name="tw__login_btn_left_padding">8dp</dimen>
+    <dimen name="tw__login_btn_radius">5dp</dimen>
+    <dimen name="tw__login_btn_right_padding">12dp</dimen>
+    <dimen name="tw__login_btn_text_size">14sp</dimen>
+    <!-- From: file:/C:/Users/Song1/Documents/StudioProjects/cannonball-android/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.4.1/res/values/values.xml -->
+    <eat-comment/>
+    <dimen name="tw__padding_permission_horizontal_container">24dp</dimen>
+    <dimen name="tw__padding_permission_vertical_container">24dp</dimen>
+    <dimen name="tw__permission_description_text_size">16sp</dimen>
+    <dimen name="tw__permission_title_text_size">24sp</dimen>
+    <!-- From: file:/C:/Users/Song1/Documents/StudioProjects/cannonball-android/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.3.1/res/values/values.xml -->
+    <eat-comment/>
+    <dimen name="tw__text_size_large">16dp</dimen>
+    <dimen name="tw__text_size_medium">14dp</dimen>
+    <dimen name="tw__tweet_action_layout_margin_top">0dp</dimen>
+    <dimen name="tw__tweet_avatar_margin_left">20dp</dimen>
+    <dimen name="tw__tweet_avatar_margin_right">8dp</dimen>
+    <dimen name="tw__tweet_avatar_margin_top">18dp</dimen>
+    <dimen name="tw__tweet_avatar_size">36dp</dimen>
+    <dimen name="tw__tweet_container_padding_bottom">18dp</dimen>
+    <dimen name="tw__tweet_container_padding_top">0dp</dimen>
+    <dimen name="tw__tweet_container_width">1dp</dimen>
+    <dimen name="tw__tweet_full_name_margin_top">15dp</dimen>
+    <dimen name="tw__tweet_logo_margin_right">20dp</dimen>
+    <dimen name="tw__tweet_logo_margin_top">18dp</dimen>
+    <item format="float" name="tw__tweet_media_aspect_ratio" type="dimen">1.777777</item>
+    <dimen name="tw__tweet_retweeted_by_drawable_padding">3dp</dimen>
+    <dimen name="tw__tweet_retweeted_by_margin_bottom">-10dp</dimen>
+    <dimen name="tw__tweet_retweeted_by_margin_left">20dp</dimen>
+    <dimen name="tw__tweet_retweeted_by_margin_top">10dp</dimen>
+    <dimen name="tw__tweet_screen_name_margin_bottom">1dp</dimen>
+    <dimen name="tw__tweet_screen_name_margin_top">-4dp</dimen>
+    <dimen name="tw__tweet_share_extra_bottom_margin">2dp</dimen>
+    <dimen name="tw__tweet_share_extra_top_margin">11dp</dimen>
+    <dimen name="tw__tweet_share_layout_height">36dp</dimen>
+    <dimen name="tw__tweet_share_margin_left">20dp</dimen>
+    <dimen name="tw__tweet_share_padding_bottom">12dp</dimen>
+    <dimen name="tw__tweet_text_margin_left">20dp</dimen>
+    <dimen name="tw__tweet_text_margin_right">20dp</dimen>
+    <dimen name="tw__tweet_text_margin_top">12dp</dimen>
+    <dimen name="tw__tweet_timestamp_margin_top">-4dp</dimen>
+    <dimen name="tw__tweet_timestamp_padding_left">4dp</dimen>
+    <dimen name="tw__tweet_verified_check_padding_left">3dp</dimen>
+    <dimen name="tw__tweet_verified_margin_bottom">3dp</dimen>
+    <!-- From: file:/C:/Users/Song1/Documents/StudioProjects/cannonball-android/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="tweet_list_margin_top">2dp</dimen>
+    <dimen name="tweet_list_progress_bar_margin_top">20dp</dimen>
+    <dimen name="weighted_height">0dp</dimen>
+    <dimen name="word_container_padding">7dp</dimen>
+    <dimen name="word_padding_horizontal">15dp</dimen>
+    <dimen name="word_padding_vertical">15dp</dimen>
+    <dimen name="word_stroke_width">2dp</dimen>
+    <dimen name="word_text_size">22sp</dimen>
+    <!-- From: file:/C:/Users/Song1/Documents/StudioProjects/cannonball-android/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.3.1/res/values/values.xml -->
+    <eat-comment/>
+    <plurals name="tw__time_hours">
+        <item quantity="one">1h</item>
+        <item quantity="other">%dh</item>
+    </plurals>
+    <plurals name="tw__time_mins">
+        <item quantity="one">1m</item>
+        <item quantity="other">%dm</item>
+    </plurals>
+    <plurals name="tw__time_secs">
+        <item quantity="one">1s</item>
+        <item quantity="other">%ds</item>
+    </plurals>
+    <!-- From: file:/C:/Users/Song1/Documents/StudioProjects/cannonball-android/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="about_activate_crashes">Activate crashes (for demo purposes)</string>
+    <string name="about_learn_more">Learn more at t.co/cannonball</string>
+    <string name="adventure">#Adventure</string>
+    <string name="app_name">Cannonball</string>
+    <string name="content_desc_back">Back button</string>
+    <string name="content_desc_done">Done</string>
+    <string name="content_desc_history">History</string>
+    <string name="content_desc_icon">Application icon</string>
+    <string name="content_desc_poempic">Poem background</string>
+    <string name="content_desc_popular">Popular poems</string>
+    <string name="delete">Delete</string>
+    <!-- From: file:/C:/Users/Song1/Documents/StudioProjects/cannonball-android/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.6.2/res/values/values.xml -->
+    <eat-comment/>
+    <string name="dgts__cancel">Cancel</string>
+    <string name="dgts__communication_error">Communication Error</string>
+    <string name="dgts__confirmation_code">Confirmation code</string>
+    <string name="dgts__confirmation_edit_hint">Enter confirmation code</string>
+    <string name="dgts__confirmation_error">Unable to confirm your phone number</string>
+    <string name="dgts__confirmation_error_alternative">Sorry, we are having trouble sending you a confirmation code.</string>
+    <string name="dgts__confirmation_expired">This code has expired. Please resend
+        confirmation code.</string>
+    <string name="dgts__confirmation_send_text">Send confirmation code</string>
+    <string name="dgts__confirmation_sending_text">Sending confirmation code</string>
+    <string name="dgts__confirmation_sent_text">Sent confirmation code</string>
+    <string name="dgts__confirmation_sms">Confirmation code: %1$s. Enter this code in %2$s</string>
+    <string name="dgts__country_spinner_format" translatable="false">%1$s +%2$d</string>
+    <string name="dgts__create_account_text">Create account</string>
+    <string name="dgts__creating_account_text">Creating account</string>
+    <string name="dgts__digits_logo_desc">digits logo icon</string>
+    <string name="dgts__digits_logo_name_desc">digits logo name</string>
+    <string name="dgts__dismiss">Dismiss</string>
+    <string name="dgts__find_your_friends">Find your friends</string>
+    <string name="dgts__image_header_description">Image header for login</string>
+    <string name="dgts__login_digits_text">Use my phone number</string>
+    <string name="dgts__network_error">Please check your network and try again.</string>
+    <string name="dgts__not_now">Not now</string>
+    <string name="dgts__okay">Okay</string>
+    <string name="dgts__phone_number_edit_hint">Your Number</string>
+    <string name="dgts__phone_number_text">Enter your phone number</string>
+    <string name="dgts__pin_code_verification_title">Enter 2-step verification code</string>
+    <string name="dgts__resend">Resend</string>
+    <string name="dgts__resend_confirmation_text">Resend confirmation code</string>
+    <string name="dgts__sign_in">Sign in</string>
+    <string name="dgts__sign_in_error">We could not sign you in with Twitter at this time.
+        Please try again later.</string>
+    <string name="dgts__sign_in_twitter">Sign in with Twitter</string>
+    <string name="dgts__signing_in">Signing in</string>
+    <string name="dgts__success_desc">Success Icon</string>
+    <string name="dgts__terms_text">By tapping %1$sSend confirmation code%1$s above, <u>Digits by Twitter</u>, will send you a SMS message to confirm your phone number. Message &amp; data rates may apply.</string>
+    <string name="dgts__terms_text_create">By tapping %1$sCreate account%1$s above, you agree to the <u>Terms of Service</u>, <u>Privacy Policy</u>, and <u>Cookies Policy</u> of Digits by Twitter, and that other users of this app can discover you by phone number and/or email.</string>
+    <string name="dgts__terms_text_sign_in">By tapping %1$sSign in%1$s above, you agree to the updated <u>Terms of Service</u>, <u>Privacy Policy</u>, and <u>Cookies Policy</u> of Digits by Twitter, and that other users of %1$s can discover you by phone number and/or email.</string>
+    <string name="dgts__try_again">Try Again</string>
+    <string name="dgts__try_again_confirmation">Please check your code and try again.</string>
+    <string name="dgts__try_again_phone_number">Please check your number and try again.</string>
+    <string name="dgts__try_another_phone">Try a different phone number</string>
+    <string name="dgts__upload_contacts">We use Digits by Twitter to find more of your friends who use this app. When you tap Okay, we\'ll upload your address book to Digits by Twitter so that we can help you find users of %1$s that you know or help other users of %1$s find you.</string>
+    <string name="dgts__verification_code">Verification code</string>
+    <string name="dgts_pin_code_terms">You have previously set a 2-step verification code on digits.com</string>
+    <string name="dgts_verify">Verify</string>
+    <string name="dgts_verifying">Verifying</string>
+    <!-- From: file:/C:/Users/Song1/Documents/StudioProjects/cannonball-android/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="instructions">
+        Cannonball is the fun way to create and share stories and poems on your phone.
+        Start with a beautiful image from the gallery, then choose words about #adventure,
+        #romance, #nature or #mystery to complete the story and share it with friends.
+        Browse top stories created by other users for inspiration.\n\n
+        Cannonball was built with Fabric.
+    </string>
+    <!-- From: file:/C:/Users/Song1/Documents/StudioProjects/cannonball-android/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.4.1/res/values/values.xml -->
+    <eat-comment/>
+    <string name="kit_name">Twitter</string>
+    <!-- From: file:/C:/Users/Song1/Documents/StudioProjects/cannonball-android/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="mopub_ad_icon">Ad Icon</string>
+    <string name="mopub_ad_image">Ad Image</string>
+    <string name="mopub_app_property" translateable="false">Clash of Clans</string>
+    <string name="mopub_install">Install</string>
+    <string name="mopub_placeholder">This is the text of an Ad that will be loaded by MoPub</string>
+    <string name="mopub_sponsored">#Sponsored</string>
+    <string name="mystery">#Mystery</string>
+    <string name="nature">#Nature</string>
+    <string name="poem_history_title">Your Poems</string>
+    <string name="poem_placeholder">This will be a poem generate by the user, how awesome is that, don\' get excited, this is just a placeholder</string>
+    <string name="popular_poems_title">Popular Poems</string>
+    <string name="romance">#Romance</string>
+    <string name="seconds_to_go">60</string>
+    <string name="share">Share</string>
+    <string name="share_poem_tweet_text">Look at the poem I wrote using #cannonballapp</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="sign_in_with_phone">Sign in with Phone</string>
+    <string name="sign_in_with_twitter">Sign in with Twitter</string>
+    <string name="sign_out">Sign out</string>
+    <string name="skip">skip</string>
+    <string name="theme_placeholder">#adventure</string>
+    <string name="title_activity_about">About</string>
+    <string name="toast_poem_created">Poem written successfully!</string>
+    <string name="toast_poem_delete_error">An error occurred when deleting the poem.</string>
+    <string name="toast_poem_deleted">Poem deleted</string>
+    <string name="toast_poem_error">An error occurred when creating the poem, please try again.</string>
+    <string name="toast_retrieve_tweets_error">Failed to retrieve tweets</string>
+    <string name="toast_share_error">An error occurred when trying to share your poem.</string>
+    <string name="toast_twitter_digits_fail">It was not possible to Sign up with your Phone, try again later</string>
+    <string name="toast_twitter_signin_fail">It was not possible to Sign in with Twitter, try again later</string>
+    <string name="toast_wordless_poem">There\'s no poem without words on it…</string>
+    <!-- From: file:/C:/Users/Song1/Documents/StudioProjects/cannonball-android/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.4.1/res/values/values.xml -->
+    <eat-comment/>
+    <string name="tw__allow_btn_txt">Allow</string>
+    <!-- From: file:/C:/Users/Song1/Documents/StudioProjects/cannonball-android/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.3.1/res/values/values.xml -->
+    <eat-comment/>
+    <string name="tw__favorite_tweet">Favorite Tweet</string>
+    <string name="tw__favorited_tweet">Favorited Tweet</string>
+    <string name="tw__loading_tweet">Loading Tweet</string>
+    <!-- From: file:/C:/Users/Song1/Documents/StudioProjects/cannonball-android/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.4.1/res/values/values.xml -->
+    <eat-comment/>
+    <string name="tw__login_btn_txt">Log in with Twitter</string>
+    <string name="tw__not_now_btn_txt">Not now</string>
+    <!-- From: file:/C:/Users/Song1/Documents/StudioProjects/cannonball-android/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.3.1/res/values/values.xml -->
+    <eat-comment/>
+    <string name="tw__relative_date_format_long">MM/dd/yy</string>
+    <string name="tw__relative_date_format_short">MMM dd</string>
+    <string name="tw__retweeted_by_format">Retweeted by %1$s</string>
+    <string name="tw__share_content_format">Check out @%1$s\'s Tweet: https://twitter.com/%1$s/status/%2$s</string>
+    <!-- From: file:/C:/Users/Song1/Documents/StudioProjects/cannonball-android/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.4.1/res/values/values.xml -->
+    <eat-comment/>
+    <string name="tw__share_email_desc">Get updates and other information from %1$s when you allow
+        them access to your email on your Twitter account \@%2$s</string>
+    <string name="tw__share_email_title">Share your email address</string>
+    <!-- From: file:/C:/Users/Song1/Documents/StudioProjects/cannonball-android/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.3.1/res/values/values.xml -->
+    <eat-comment/>
+    <string name="tw__share_subject_format">Tweet from %1$s (@%2$s)</string>
+    <string name="tw__share_tweet">Share Tweet</string>
+    <string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string>
+    <!-- From: file:/C:/Users/Song1/Documents/StudioProjects/cannonball-android/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="you_need_twitter">You need to activate your Twitter account to see popular poems.</string>
+    <!-- From: file:/C:/Users/Song1/Documents/StudioProjects/cannonball-android/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AboutTheme" parent="android:style/Theme.NoTitleBar.Fullscreen">
+        <item name="android:windowBackground">@color/background_beige</item>
+    </style>
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/background_beige</item>
+        <item name="dgts__accentColor">@color/green</item>
+        <item name="android:textColorPrimary">@color/green</item>
+    </style>
+    <!-- From: file:/C:/Users/Song1/Documents/StudioProjects/cannonball-android/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.6.2/res/values/values.xml -->
+    <eat-comment/>
+    <style name="Digits_default" parent="@android:style/Theme.Light">
+        <item name="dgts__accentColor">@color/dgts__default_accent</item>
+    </style>
+    <style name="dgts__ButtonText">
+        <item name="android:textAppearance">?android:attr/textAppearanceButton</item>
+        <item name="android:textSize">@dimen/tw__login_btn_text_size</item>
+    </style>
+    <style name="dgts__Container">
+        <item name="android:paddingLeft">@dimen/dgts__padding_container</item>
+        <item name="android:paddingRight">@dimen/dgts__padding_container</item>
+        <item name="android:paddingTop">30dp</item>
+        <item name="android:paddingBottom">30dp</item>
+    </style>
+    <style name="dgts__Terms">
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+        <item name="android:textSize">@dimen/dgts__terms_text_size</item>
+    </style>
+    <style name="dgts__Title">
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+        <item name="android:textSize">@dimen/dgts__title_text_size</item>
+        <item name="android:layout_marginBottom">24dp</item>
+    </style>
+    <!-- From: file:/C:/Users/Song1/Documents/StudioProjects/cannonball-android/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="placeholder">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/placeholder</item>
+        <item name="android:padding">@dimen/word_container_padding</item>
+    </style>
+    <style name="poem_text">
+        <item name="android:textSize">@dimen/poem_text_size</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <!-- From: file:/C:/Users/Song1/Documents/StudioProjects/cannonball-android/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.3.1/res/values/values.xml -->
+    <eat-comment/>
+    <style name="tw__ActionButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="tw__ActionButton.Favorite">
+        <item name="android:background">@null</item>
+    </style>
+    <style name="tw__AttributionText" ns1:ignore="NewApi">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/tw__text_size_medium</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <!-- From: file:/C:/Users/Song1/Documents/StudioProjects/cannonball-android/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.4.1/res/values/values.xml -->
+    <eat-comment/>
+    <style name="tw__Button">
+        <item name="android:background">@drawable/tw__login_btn</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/tw__login_btn_text_size</item>
+        <item name="android:textColor">@color/tw__solid_white</item>
+        <item name="android:paddingLeft">@dimen/tw__login_btn_left_padding</item>
+        <item name="android:paddingRight">@dimen/tw__login_btn_right_padding</item>
+    </style>
+    <style name="tw__Button.Light">
+        <item name="android:background">@drawable/tw__login_btn_light</item>
+        <item name="android:textColor">@drawable/tw__login_btn_text_color_light</item>
+    </style>
+    <style name="tw__ButtonBar">
+        <item name="android:paddingLeft">0dp</item>
+        <item name="android:paddingTop">32dp</item>
+        <item name="android:paddingRight">0dp</item>
+        <item name="android:paddingBottom">0dp</item>
+    </style>
+    <!-- From: file:/C:/Users/Song1/Documents/StudioProjects/cannonball-android/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.3.1/res/values/values.xml -->
+    <eat-comment/>
+    <style name="tw__CompactAttributionLine" ns1:ignore="NewApi">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginRight">@dimen/tw__compact_tweet_attribution_line_margin_right</item>
+        <item name="android:importantForAccessibility">noHideDescendants</item>
+    </style>
+    <style name="tw__CompactTweetContainer" parent="tw__TweetFillWidth">
+        <item name="android:background">@drawable/tw__bg_tweet_compact</item>
+        <item name="android:paddingTop">@dimen/tw__compact_tweet_container_padding_top</item>
+        <item name="android:paddingBottom">@dimen/tw__compact_tweet_container_padding_bottom</item>
+    </style>
+    <!-- From: file:/C:/Users/Song1/Documents/StudioProjects/cannonball-android/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.4.1/res/values/values.xml -->
+    <eat-comment/>
+    <style name="tw__Permission_Container">
+        <item name="android:paddingLeft">@dimen/tw__padding_permission_horizontal_container</item>
+        <item name="android:paddingRight">@dimen/tw__padding_permission_horizontal_container</item>
+        <item name="android:paddingTop">@dimen/tw__padding_permission_vertical_container</item>
+        <item name="android:paddingBottom">@dimen/tw__padding_permission_vertical_container</item>
+    </style>
+    <style name="tw__Permission_Description">
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+        <item name="android:textSize">@dimen/tw__permission_description_text_size</item>
+    </style>
+    <style name="tw__Permission_Title">
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+        <item name="android:textSize">@dimen/tw__permission_title_text_size</item>
+        <item name="android:layout_marginBottom">5dp</item>
+        <item name="android:layout_marginTop">30dp</item>
+    </style>
+    <!-- From: file:/C:/Users/Song1/Documents/StudioProjects/cannonball-android/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.3.1/res/values/values.xml -->
+    <eat-comment/>
+    <style name="tw__TweetAction" ns1:ignore="NewApi">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/tw__tweet_action_layout_margin_top</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="tw__TweetAvatar">
+        <item name="android:layout_width">@dimen/tw__tweet_avatar_size</item>
+        <item name="android:layout_height">@dimen/tw__tweet_avatar_size</item>
+        <item name="android:layout_marginTop">@dimen/tw__tweet_avatar_margin_top</item>
+        <item name="android:layout_marginLeft">@dimen/tw__tweet_avatar_margin_left</item>
+        <item name="android:layout_marginRight">@dimen/tw__tweet_avatar_margin_right</item>
+        <item name="android:focusable">false</item>
+    </style>
+    <style name="tw__TweetAvatar.Compact" parent="tw__TweetAvatar">
+        <item name="android:layout_width">@dimen/tw__tweet_avatar_size</item>
+        <item name="android:layout_height">@dimen/tw__tweet_avatar_size</item>
+        <item name="android:layout_marginTop">@dimen/tw__compact_tweet_avatar_margin_top</item>
+        <item name="android:layout_marginLeft">@dimen/tw__compact_tweet_avatar_margin_left</item>
+        <item name="android:layout_marginRight">@dimen/tw__compact_tweet_avatar_margin_right</item>
+        <item name="android:focusable">false</item>
+    </style>
+    <style name="tw__TweetContainer" parent="tw__TweetFillWidth">
+        <item name="android:background">@drawable/tw__bg_tweet</item>
+        <item name="android:paddingTop">@dimen/tw__tweet_container_padding_top</item>
+        <item name="android:paddingBottom">@dimen/tw__tweet_container_padding_bottom</item>
+    </style>
+    <style name="tw__TweetDarkStyle">
+        <item name="tw__container_bg_color">@color/tw__tweet_dark_container_bg_color</item>
+        <item name="tw__primary_text_color">@color/tw__tweet_dark_primary_text_color</item>
+        <item name="tw__action_color">@color/tw__tweet_action_color</item>
+    </style>
+    <style name="tw__TweetFillWidth">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="tw__TweetFullName" parent="tw__TweetFullNameBase">
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="tw__TweetFullName.Compact">
+        <item name="android:layout_marginTop">@dimen/tw__compact_tweet_full_name_margin_top</item>
+        <item name="android:ellipsize">none</item>
+    </style>
+    <style name="tw__TweetFullNameBase" parent="tw__AttributionText">
+        <item name="android:layout_marginTop">@dimen/tw__tweet_full_name_margin_top</item>
+        <item name="android:textSize">@dimen/tw__text_size_large</item>
+        <item name="android:textColor">@color/tw__tweet_light_primary_text_color</item>
+        <item name="android:focusable">false</item>
+    </style>
+    <style name="tw__TweetLightStyle">
+        <item name="tw__container_bg_color">@color/tw__tweet_light_container_bg_color</item>
+        <item name="tw__primary_text_color">@color/tw__tweet_light_primary_text_color</item>
+        <item name="tw__action_color">@color/tw__tweet_action_color</item>
+    </style>
+    <style name="tw__TweetMedia">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:visibility">gone</item>
+        <item name="android:focusable">false</item>
+        <item name="tw__image_aspect_ratio">@dimen/tw__tweet_media_aspect_ratio</item>
+        <item name="tw__image_dimension_to_adjust">height</item>
+    </style>
+    <style name="tw__TweetMedia.Compact">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/tw__compact_tweet_media_margin_top</item>
+        <item name="android:layout_marginBottom">@dimen/tw__compact_tweet_media_margin_bottom</item>
+        <item name="android:layout_marginRight">@dimen/tw__compact_tweet_media_margin_right</item>
+    </style>
+    <style name="tw__TweetRetweetedBy" ns1:ignore="NewApi">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/tw__tweet_retweeted_by_margin_top</item>
+        <item name="android:layout_marginLeft">@dimen/tw__tweet_retweeted_by_margin_left</item>
+        <item name="android:layout_marginBottom">@dimen/tw__tweet_retweeted_by_margin_bottom</item>
+        <item name="android:drawableLeft">@drawable/tw__ic_retweet_light</item>
+        <item name="android:drawablePadding">@dimen/tw__tweet_retweeted_by_drawable_padding</item>
+        <item name="android:textSize">@dimen/tw__text_size_medium</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:focusable">false</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:visibility">gone</item>
+    </style>
+    <style name="tw__TweetRetweetedBy.Compact">
+        <item name="android:layout_marginLeft">@dimen/tw__compact_tweet_retweeted_by_margin_left</item>
+        <item name="android:layout_marginBottom">@dimen/tw__compact_tweet_retweeted_by_margin_bottom</item>
+        <item name="android:layout_marginTop">@dimen/tw__compact_tweet_retweeted_by_margin_top</item>
+        <item name="android:drawablePadding">@dimen/tw__compact_tweet_retweeted_by_drawable_padding</item>
+    </style>
+    <style name="tw__TweetScreenName" ns1:ignore="NewApi" parent="tw__AttributionText">
+        <item name="android:layout_marginTop">@dimen/tw__tweet_screen_name_margin_top</item>
+        <item name="android:layout_marginBottom">@dimen/tw__tweet_screen_name_margin_bottom</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:focusable">false</item>
+        <item name="android:importantForAccessibility">no</item>
+    </style>
+    <style name="tw__TweetScreenName.Compact" ns1:ignore="NewApi">
+        <item name="android:layout_width">@dimen/tw__compact_tweet_screen_name_layout_width</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_marginTop">@dimen/tw__compact_tweet_screen_name_margin_top</item>
+        <item name="android:layout_marginBottom">@dimen/tw__compact_tweet_screen_name_margin_bottom</item>
+        <item name="android:paddingLeft">@dimen/tw__compact_tweet_screen_name_padding_left</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textSize">@dimen/tw__text_size_medium</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+    <style name="tw__TweetShare" ns1:ignore="NewApi">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">@dimen/tw__tweet_share_layout_height</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:layout_marginLeft">@dimen/tw__tweet_share_margin_left</item>
+        <item name="android:textSize">@dimen/tw__text_size_large</item>
+        <item name="android:textColor">@color/tw__tweet_action_color</item>
+        <item name="android:paddingBottom">@dimen/tw__tweet_share_padding_bottom</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+    <style name="tw__TweetText" ns1:ignore="NewApi">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/tw__tweet_text_margin_top</item>
+        <item name="android:layout_marginLeft">@dimen/tw__tweet_text_margin_left</item>
+        <item name="android:layout_marginRight">@dimen/tw__tweet_text_margin_right</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textSize">@dimen/tw__font_size_large</item>
+        <item name="android:lineSpacingExtra">2dp</item>
+        <item name="android:textColor">@color/tw__tweet_light_primary_text_color</item>
+        <item name="android:textColorLink">@color/tw__tweet_action_color</item>
+        <item name="android:focusable">false</item>
+        <item name="android:importantForAccessibility">no</item>
+    </style>
+    <style name="tw__TweetText.Compact" ns1:ignore="NewApi">
+        <item name="android:layout_marginTop">@dimen/tw__compact_tweet_text_margin_top</item>
+        <item name="android:layout_marginLeft">@dimen/tw__compact_tweet_text_margin_left</item>
+        <item name="android:layout_marginRight">@dimen/tw__compact_tweet_text_margin_right</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textSize">@dimen/tw__font_size_large</item>
+    </style>
+    <style name="tw__TweetTimestamp" ns1:ignore="NewApi" parent="tw__AttributionText">
+        <item name="android:layout_marginTop">@dimen/tw__tweet_timestamp_margin_top</item>
+        <item name="android:paddingLeft">@dimen/tw__tweet_timestamp_padding_left</item>
+        <item name="android:ellipsize">none</item>
+        <item name="android:focusable">false</item>
+        <item name="android:importantForAccessibility">no</item>
+    </style>
+    <style name="tw__TweetTimestamp.Compact" ns1:ignore="NewApi">
+        <item name="android:layout_marginTop">@dimen/tw__compact_tweet_timestamp_margin_top</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textSize">@dimen/tw__text_size_medium</item>
+        <item name="android:ellipsize">none</item>
+    </style>
+    <style name="tw__TweetVerifiedCheck">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">@dimen/tw__tweet_verified_margin_bottom</item>
+        <item name="android:paddingLeft">@dimen/tw__tweet_verified_check_padding_left</item>
+        <item name="android:src">@drawable/tw__ic_tweet_verified</item>
+        <item name="android:focusable">false</item>
+    </style>
+    <style name="tw__TwitterLogo">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/tw__tweet_logo_margin_top</item>
+        <item name="android:layout_marginRight">@dimen/tw__tweet_logo_margin_right</item>
+        <item name="android:src">@drawable/tw__ic_logo_blue</item>
+        <item name="android:focusable">false</item>
+    </style>
+    <style name="tw__TwitterLogo.Compact">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/tw__compact_tweet_logo_margin_top</item>
+        <item name="android:layout_marginRight">@dimen/tw__compact_tweet_logo_margin_right</item>
+        <item name="android:src">@drawable/tw__ic_logo_blue</item>
+    </style>
+</resources>
