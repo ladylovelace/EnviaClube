@@ -2,11 +2,25 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Song1\Documents\StudioProjects\cannonball-android\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter\1.6.1\classes.jar"
+        jar="C:\Users\Song1\Documents\StudioProjects\EnviaClube\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter-core\1.4.1\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="b4cc38e70a45941011607ab4a2c46bacc5395b1c">
+        <dex dex="C:\Users\Song1\Documents\StudioProjects\EnviaClube\app\build\intermediates\pre-dexed\debug\classes-7196ddc60ff9579bc2c77a5b1193cc8b99735bbb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Song1\Documents\StudioProjects\EnviaClube\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\beta\1.1.3\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="b7a78990c10481f43cb4909f535ef4f11e60f1ab">
+        <dex dex="C:\Users\Song1\Documents\StudioProjects\EnviaClube\app\build\intermediates\pre-dexed\debug\classes-5e0013b154dc5fea4df082a77e88abdc6cb10fd2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Song1\Documents\StudioProjects\EnviaClube\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter\1.6.1\classes.jar"
         jumboMode="false"
         revision="21.0.1"
         sha1="a18abee4a31687c45cc673c4a8af0b346c80d2f4">
-        <dex dex="C:\Users\Song1\Documents\StudioProjects\cannonball-android\app\build\intermediates\pre-dexed\debug\classes-5998e7876826cd45fc4d6aabab69383f6a3b2cd4.jar" />
+        <dex dex="C:\Users\Song1\Documents\StudioProjects\EnviaClube\app\build\intermediates\pre-dexed\debug\classes-cfcf5500646484e3849b3096afb639750dfb7165.jar" />
     </item>
     <item
         jar="C:\Users\Song1\Documents\StudioProjects\cannonball-android\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\answers\1.3.1\classes.jar"
@@ -14,13 +28,6 @@
         revision="21.0.1"
         sha1="441ace5a20e7fcf94f30b4394d882ed2f79237c3">
         <dex dex="C:\Users\Song1\Documents\StudioProjects\cannonball-android\app\build\intermediates\pre-dexed\debug\classes-d02246e55ebf5fe718ebacd13bdf619f986a2895.jar" />
-    </item>
-    <item
-        jar="C:\Users\Song1\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
-        jumboMode="false"
-        revision="21.0.1"
-        sha1="a60a5e993c98c864010053cb901b7eab25306568">
-        <dex dex="C:\Users\Song1\Documents\StudioProjects\cannonball-android\app\build\intermediates\pre-dexed\debug\gson-2.2.4-dcb86c1402dc94bfc005e36b035fb0cc95678efe.jar" />
     </item>
     <item
         jar="C:\Users\Song1\Documents\StudioProjects\cannonball-android\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-composer\0.8.0\classes.jar"
@@ -37,20 +44,6 @@
         <dex dex="C:\Users\Song1\Documents\StudioProjects\cannonball-android\app\build\intermediates\pre-dexed\debug\mopub-volley-1.1.0-88e2d0701f2c640fb7f0ccc30e1519e9d4027b12.jar" />
     </item>
     <item
-        jar="C:\Users\Song1\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.6.1\efb0a36546aa8857ab8df358b106c1817e03cbee\retrofit-1.6.1.jar"
-        jumboMode="false"
-        revision="21.0.1"
-        sha1="efb0a36546aa8857ab8df358b106c1817e03cbee">
-        <dex dex="C:\Users\Song1\Documents\StudioProjects\cannonball-android\app\build\intermediates\pre-dexed\debug\retrofit-1.6.1-adebd366081c07436d5421f8c5c0a46b12c4afae.jar" />
-    </item>
-    <item
-        jar="C:\Users\Song1\Documents\StudioProjects\cannonball-android\app\build\intermediates\exploded-aar\com.mopub.sdk.android\mopub\3.8.0\classes.jar"
-        jumboMode="false"
-        revision="21.0.1"
-        sha1="2c5980a738d4cfece91b9f7ee1e857e778289c09">
-        <dex dex="C:\Users\Song1\Documents\StudioProjects\cannonball-android\app\build\intermediates\pre-dexed\debug\classes-9c64939b12afeba77903f12595f82f3e4565a680.jar" />
-    </item>
-    <item
         jar="C:\Users\Song1\Documents\StudioProjects\cannonball-android\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-ui\1.3.1\classes.jar"
         jumboMode="false"
         revision="21.0.1"
@@ -63,13 +56,6 @@
         revision="21.0.1"
         sha1="467417b1695583fbaee8de0e5f4202b6a2b578e1">
         <dex dex="C:\Users\Song1\Documents\StudioProjects\cannonball-android\app\build\intermediates\pre-dexed\debug\classes-c89c470beb7bae7563094c986b59023792b6683c.jar" />
-    </item>
-    <item
-        jar="C:\Users\Song1\Documents\StudioProjects\cannonball-android\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter-core\1.4.1\classes.jar"
-        jumboMode="false"
-        revision="21.0.1"
-        sha1="b4cc38e70a45941011607ab4a2c46bacc5395b1c">
-        <dex dex="C:\Users\Song1\Documents\StudioProjects\cannonball-android\app\build\intermediates\pre-dexed\debug\classes-6feba8f683ba73c0fb5b3b428f3d944d28bb837b.jar" />
     </item>
     <item
         jar="C:\Users\Song1\Documents\StudioProjects\cannonball-android\app\build\intermediates\exploded-aar\com.digits.sdk.android\digits\1.6.2\classes.jar"
@@ -86,6 +72,111 @@
         <dex dex="C:\Users\Song1\Documents\StudioProjects\cannonball-android\app\build\intermediates\pre-dexed\debug\classes-61aa26e36526540204145dd2f3ec4a7a11db4e3c.jar" />
     </item>
     <item
+        jar="C:\Users\Song1\Documents\StudioProjects\EnviaClube\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics-core\2.3.4\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="467417b1695583fbaee8de0e5f4202b6a2b578e1">
+        <dex dex="C:\Users\Song1\Documents\StudioProjects\EnviaClube\app\build\intermediates\pre-dexed\debug\classes-13f97a9af0b11f9baad1e1a9450439d22a82ecb7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Song1\Documents\StudioProjects\cannonball-android\app\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.3.5\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="6e65060ef2ec6ec98365250d2119d7968626fd3f">
+        <dex dex="C:\Users\Song1\Documents\StudioProjects\cannonball-android\app\build\intermediates\pre-dexed\debug\classes-5ae5efc95cf7077c75312b4cd3ff6825671c45c0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Song1\Documents\StudioProjects\EnviaClube\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="C:\Users\Song1\Documents\StudioProjects\EnviaClube\app\build\intermediates\pre-dexed\debug\classes-55ef8c3d354f96e001de4fb22a5e6f11d8964a4a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Song1\Documents\StudioProjects\EnviaClube\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="C:\Users\Song1\Documents\StudioProjects\EnviaClube\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-bb33849783d1948e52ed5b6d0884e1dd3b8af5f2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Song1\Documents\StudioProjects\EnviaClube\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-composer\0.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="157015930713d0411b69a76606f306c9a2c11af3">
+        <dex dex="C:\Users\Song1\Documents\StudioProjects\EnviaClube\app\build\intermediates\pre-dexed\debug\classes-d46ca478ac676dcb810a78c836d752948c0db85b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Song1\Documents\StudioProjects\cannonball-android\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="C:\Users\Song1\Documents\StudioProjects\cannonball-android\app\build\intermediates\pre-dexed\debug\classes-1e225eff5aac2786a36a66902dbaf1f2d04f2fd3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Song1\Documents\StudioProjects\cannonball-android\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter\1.6.1\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="a18abee4a31687c45cc673c4a8af0b346c80d2f4">
+        <dex dex="C:\Users\Song1\Documents\StudioProjects\cannonball-android\app\build\intermediates\pre-dexed\debug\classes-5998e7876826cd45fc4d6aabab69383f6a3b2cd4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Song1\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\Song1\Documents\StudioProjects\cannonball-android\app\build\intermediates\pre-dexed\debug\gson-2.2.4-dcb86c1402dc94bfc005e36b035fb0cc95678efe.jar" />
+    </item>
+    <item
+        jar="C:\Users\Song1\Documents\StudioProjects\EnviaClube\app\build\intermediates\exploded-aar\com.digits.sdk.android\digits\1.6.2\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="7aa9f1005cfc02016af0c01eab6b71ca4c6c72dd">
+        <dex dex="C:\Users\Song1\Documents\StudioProjects\EnviaClube\app\build\intermediates\pre-dexed\debug\classes-09cf1fa55a1e8a90cedeb59edb18a317e6d35e63.jar" />
+    </item>
+    <item
+        jar="C:\Users\Song1\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.6.1\efb0a36546aa8857ab8df358b106c1817e03cbee\retrofit-1.6.1.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="efb0a36546aa8857ab8df358b106c1817e03cbee">
+        <dex dex="C:\Users\Song1\Documents\StudioProjects\cannonball-android\app\build\intermediates\pre-dexed\debug\retrofit-1.6.1-adebd366081c07436d5421f8c5c0a46b12c4afae.jar" />
+    </item>
+    <item
+        jar="C:\Users\Song1\Documents\StudioProjects\cannonball-android\app\build\intermediates\exploded-aar\com.mopub.sdk.android\mopub\3.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="2c5980a738d4cfece91b9f7ee1e857e778289c09">
+        <dex dex="C:\Users\Song1\Documents\StudioProjects\cannonball-android\app\build\intermediates\pre-dexed\debug\classes-9c64939b12afeba77903f12595f82f3e4565a680.jar" />
+    </item>
+    <item
+        jar="C:\Users\Song1\Documents\StudioProjects\cannonball-android\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter-core\1.4.1\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="b4cc38e70a45941011607ab4a2c46bacc5395b1c">
+        <dex dex="C:\Users\Song1\Documents\StudioProjects\cannonball-android\app\build\intermediates\pre-dexed\debug\classes-6feba8f683ba73c0fb5b3b428f3d944d28bb837b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Song1\Documents\StudioProjects\EnviaClube\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-ui\1.3.1\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="85d6153e19093517149158d7d6600c63a3169c76">
+        <dex dex="C:\Users\Song1\Documents\StudioProjects\EnviaClube\app\build\intermediates\pre-dexed\debug\classes-6eefe5e0b28b33e7d61ec0dcfbdf71e6d51f5dc7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Song1\Documents\StudioProjects\EnviaClube\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics\2.5.1\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="2b1fb39b3c4feeb031b00744fbbe464e3d31a88d">
+        <dex dex="C:\Users\Song1\Documents\StudioProjects\EnviaClube\app\build\intermediates\pre-dexed\debug\classes-7faf2b1d1d6a5e05d3523c684fda90567f4cbd1d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Song1\Documents\StudioProjects\EnviaClube\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\answers\1.3.1\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="441ace5a20e7fcf94f30b4394d882ed2f79237c3">
+        <dex dex="C:\Users\Song1\Documents\StudioProjects\EnviaClube\app\build\intermediates\pre-dexed\debug\classes-99aafb971e3601b2b964baa6151f56411906eb65.jar" />
+    </item>
+    <item
         jar="C:\Users\Song1\Documents\StudioProjects\cannonball-android\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics\2.5.1\classes.jar"
         jumboMode="false"
         revision="21.0.1"
@@ -100,11 +191,18 @@
         <dex dex="C:\Users\Song1\Documents\StudioProjects\cannonball-android\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-635099c2f14bfb30d0c61929bbdf043bc71ffcf1.jar" />
     </item>
     <item
-        jar="C:\Users\Song1\Documents\StudioProjects\cannonball-android\app\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.3.5\classes.jar"
+        jar="C:\Users\Song1\Documents\StudioProjects\EnviaClube\app\build\intermediates\exploded-aar\com.mopub.sdk.android\mopub\3.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="2c5980a738d4cfece91b9f7ee1e857e778289c09">
+        <dex dex="C:\Users\Song1\Documents\StudioProjects\EnviaClube\app\build\intermediates\pre-dexed\debug\classes-0a44f33394b2b57a9e59d92c54dfd86cdedd125d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Song1\Documents\StudioProjects\EnviaClube\app\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.3.5\classes.jar"
         jumboMode="false"
         revision="21.0.1"
         sha1="6e65060ef2ec6ec98365250d2119d7968626fd3f">
-        <dex dex="C:\Users\Song1\Documents\StudioProjects\cannonball-android\app\build\intermediates\pre-dexed\debug\classes-5ae5efc95cf7077c75312b4cd3ff6825671c45c0.jar" />
+        <dex dex="C:\Users\Song1\Documents\StudioProjects\EnviaClube\app\build\intermediates\pre-dexed\debug\classes-b4555dd2aa3a94be6111aab5e74bb16ea8643f3e.jar" />
     </item>
     <item
         jar="C:\Users\Song1\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
@@ -119,13 +217,6 @@
         revision="21.0.1"
         sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
         <dex dex="C:\Users\Song1\Documents\StudioProjects\cannonball-android\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-5663c4e0af574f77a2e6da6c8f234863a2eaee17.jar" />
-    </item>
-    <item
-        jar="C:\Users\Song1\Documents\StudioProjects\cannonball-android\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\classes.jar"
-        jumboMode="false"
-        revision="21.0.1"
-        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
-        <dex dex="C:\Users\Song1\Documents\StudioProjects\cannonball-android\app\build\intermediates\pre-dexed\debug\classes-1e225eff5aac2786a36a66902dbaf1f2d04f2fd3.jar" />
     </item>
 
 </items>
