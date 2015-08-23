@@ -27,6 +27,14 @@ public class MapActivity extends Activity {
             }
         });
 
+        final Button deliveryCandidate = (Button) findViewById(R.id.deliveryCandidate);
+        deliveryCandidate.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(MapActivity.this, DeliveryCandidateActivity.class));
+            }
+        });
+
     }
 
     @Override

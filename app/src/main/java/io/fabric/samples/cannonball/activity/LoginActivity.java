@@ -20,21 +20,13 @@ import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
-import android.view.View;
-import android.widget.TextView;
 import android.widget.Toast;
 
 import com.crashlytics.android.Crashlytics;
-import com.crashlytics.android.answers.Answers;
 import com.digits.sdk.android.AuthCallback;
 import com.digits.sdk.android.DigitsAuthButton;
 import com.digits.sdk.android.DigitsException;
 import com.digits.sdk.android.DigitsSession;
-import com.twitter.sdk.android.core.Callback;
-import com.twitter.sdk.android.core.Result;
-import com.twitter.sdk.android.core.TwitterException;
-import com.twitter.sdk.android.core.TwitterSession;
-import com.twitter.sdk.android.core.identity.TwitterLoginButton;
 
 import io.fabric.samples.cannonball.R;
 import io.fabric.samples.cannonball.SessionRecorder;
@@ -43,7 +35,6 @@ public class LoginActivity extends Activity {
 
     private static final String TAG = LoginActivity.class.getSimpleName();
 
-    //private TwitterLoginButton twitterButton;
     private DigitsAuthButton phoneButton;
 
     @Override
@@ -52,35 +43,14 @@ public class LoginActivity extends Activity {
         setContentView(R.layout.activity_login);
         setUpViews();
 
-        Log.i(TAG,"entrei");
+        Log.i(TAG, "entrei");
 
     }
 
     private void setUpViews() {
-        setUpSkip();
-        //setUpTwitterButton();
         setUpDigitsButton();
     }
-/*
-    private void setUpTwitterButton() {
-        twitterButton = (TwitterLoginButton) findViewById(R.id.twitter_button);
-        twitterButton.setCallback(new Callback<TwitterSession>() {
-            @Override
-            public void success(Result<TwitterSession> result) {
-                SessionRecorder.recordSessionActive("Login: twitter account active", result.data);
-                startThemeChooser();
-            }
 
-            @Override
-            public void failure(TwitterException exception) {
-                Toast.makeText(getApplicationContext(),
-                        getResources().getString(R.string.toast_twitter_signin_fail),
-                        Toast.LENGTH_SHORT).show();
-                Crashlytics.logException(exception);
-            }
-        });
-    }
-*/
     private void setUpDigitsButton() {
         phoneButton = (DigitsAuthButton) findViewById(R.id.phone_button);
         phoneButton.setAuthTheme(R.style.AppTheme);
@@ -101,19 +71,6 @@ public class LoginActivity extends Activity {
         });
     }
 
-    private void setUpSkip() {
-        TextView skipButton;
-        skipButton = (TextView) findViewById(R.id.skip);
-        skipButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Crashlytics.log("Login: skipped login");
-                startThemeChooser();
-                overridePendingTransition(R.anim.slide_down, R.anim.slide_up);
-            }
-        });
-    }
-
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
@@ -121,8 +78,7 @@ public class LoginActivity extends Activity {
     }
 
     private void startThemeChooser() {
-        final Intent themeChooserIntent = new Intent(LoginActivity.this,
-                ThemeChooserActivity.class);
-        startActivity(themeChooserIntent);
+
+        startActivity(new Intent(LoginActivity.this, MapActivity.class));
     }
 }

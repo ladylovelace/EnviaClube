@@ -56,6 +56,8 @@ repositories {
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
+    //FORTE IMCOMPATIBILIDADE
+    //compile ('com.google.android.gms:play-services:7.5.0')
     compile('com.twitter.sdk.android:twitter:1.6.1@aar') {
         transitive = true
     }

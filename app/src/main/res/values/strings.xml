@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Cannonball</string>
+    <string name="app_name">EnviaClube</string>
     <string name="shuffle">Shuffle</string>
     <string name="content_desc_back">Back button</string>
     <string name="content_desc_done">Done</string>
@@ -13,7 +13,7 @@
     <string name="delete">Delete</string>
     <string name="sign_out">Sign out</string>
     <string name="sign_in_with_twitter">Sign in with Twitter</string>
-    <string name="sign_in_with_phone">Sign in with Phone</string>
+    <string name="sign_in_with_phone">Login com Telefone</string>
     <string name="share_poem_tweet_text">Look at the poem I wrote using #cannonballapp</string>
     <string name="seconds_to_go">60</string>
     <string name="about_learn_more">Learn more at t.co/cannonball</string>
