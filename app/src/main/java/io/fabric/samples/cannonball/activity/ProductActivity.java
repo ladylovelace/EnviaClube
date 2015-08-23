@@ -1,9 +1,12 @@
 package io.fabric.samples.cannonball.activity;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
+import android.widget.Button;
 
 import io.fabric.samples.cannonball.R;
 
@@ -13,6 +16,14 @@ public class ProductActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_product);
+
+        Button btnAprova = (Button) findViewById(R.id.btnAprova);
+        btnAprova.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(ProductActivity.this, DeliveryCandidateActivity.class));
+            }
+        });
     }
 
     @Override

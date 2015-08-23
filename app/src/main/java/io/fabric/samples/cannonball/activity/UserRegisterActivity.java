@@ -1,6 +1,7 @@
 package io.fabric.samples.cannonball.activity;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -29,7 +30,7 @@ public class UserRegisterActivity extends Activity {
         btnFinalizar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                //TODO
+                startActivity(new Intent(UserRegisterActivity.this, ProductActivity.class));
             }
         });
 

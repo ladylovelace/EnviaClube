@@ -1,9 +1,12 @@
 package io.fabric.samples.cannonball.activity;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
+import android.widget.CheckBox;
 
 import io.fabric.samples.cannonball.R;
 
@@ -13,6 +16,24 @@ public class DeliveryCandidateActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_delivery_candidate);
+
+        CheckBox check = (CheckBox) findViewById(R.id.checkBox);
+        CheckBox check2 = (CheckBox) findViewById(R.id.checkBox2);
+
+        check.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(DeliveryCandidateActivity.this, ProductActivity.class));
+            }
+        });
+
+        check2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(DeliveryCandidateActivity.this, ProductActivity.class));
+            }
+        });
+
     }
 
     @Override
