@@ -1077,7 +1077,7 @@ oluyorsun.</string><string name="dgts__confirmation_sms">Doğrulama kodu: %1$s. 
         <item>y</item>
         <item>you</item>
         <item>your</item>
-    </string-array><string name="title_activity_user_register">UserRegisterActivity</string><string name="sign_in_with_twitter">Sign in with Twitter</string><string name="action_settings">Settings</string><string name="app_name">EnviaClube</string><string name="skip">skip</string><string-array name="wordbank_romance">
+    </string-array><string name="title_activity_user_register">UserRegisterActivity</string><string name="sign_in_with_twitter">Sign in with Twitter</string><string name="action_settings">Settings</string><string name="app_name">EnvioClube</string><string name="skip">skip</string><string-array name="wordbank_romance">
         <item>&amp;</item>
         <item>a</item>
         <item>a</item>

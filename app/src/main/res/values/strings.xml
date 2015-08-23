@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">EnviaClube</string>
+    <string name="app_name">EnvioClube</string>
     <string name="shuffle">Shuffle</string>
     <string name="content_desc_back">Back button</string>
     <string name="content_desc_done">Done</string>
