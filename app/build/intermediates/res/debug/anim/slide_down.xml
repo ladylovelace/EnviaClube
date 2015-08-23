@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <translate xmlns:android="http://schemas.android.com/apk/res/android"
     android:fromYDelta="100%p" android:toYDelta="0%p"
-    android:duration="500"/><!-- From: file:/C:/Users/Song1/Documents/StudioProjects/cannonball-android/app/src/main/res/anim/slide_down.xml -->
+    android:duration="500"/><!-- From: file:/C:/Users/Song1/Documents/StudioProjects/EnviaClube/app/src/main/res/anim/slide_down.xml -->

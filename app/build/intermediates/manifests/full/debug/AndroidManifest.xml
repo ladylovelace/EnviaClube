@@ -112,6 +112,36 @@
             android:value="a6bc7f00cf5df6031441ebe07231874e5e1c8838" />
 
         <activity
+            android:name="io.fabric.samples.cannonball.activity.MapActivity"
+            android:label="@string/title_activity_map"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="io.fabric.samples.cannonball.activity.ProductActivity"
+            android:label="@string/title_activity_product"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="io.fabric.samples.cannonball.activity.SelectProductActivity"
+            android:label="@string/title_activity_select_product"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="io.fabric.samples.cannonball.activity.ProductDetailsActivity"
+            android:label="@string/title_activity_product_details"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="io.fabric.samples.cannonball.activity.UserRegisterActivity"
+            android:label="@string/title_activity_user_register"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="io.fabric.samples.cannonball.activity.DeliveryCandidateActivity"
+            android:label="@string/title_activity_delivery_candidate"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
             android:name="com.twitter.sdk.android.core.identity.OAuthActivity"
             android:configChanges="orientation|screenSize"
             android:excludeFromRecents="true"

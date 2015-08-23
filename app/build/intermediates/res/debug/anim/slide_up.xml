@@ -2,4 +2,4 @@
 <translate xmlns:android="http://schemas.android.com/apk/res/android"
     android:fromYDelta="0%p"
     android:toYDelta="-100%p"
-    android:duration="500"/><!-- From: file:/C:/Users/Song1/Documents/StudioProjects/cannonball-android/app/src/main/res/anim/slide_up.xml -->
+    android:duration="500"/><!-- From: file:/C:/Users/Song1/Documents/StudioProjects/EnviaClube/app/src/main/res/anim/slide_up.xml -->

@@ -17,6 +17,7 @@ package io.fabric.samples.cannonball.activity;
 
 import android.app.Activity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.CheckBox;
 import android.widget.CompoundButton;
@@ -34,11 +35,16 @@ import io.fabric.samples.cannonball.SessionRecorder;
 
 public class AboutActivity extends Activity {
 
+    private static final String TAG = AboutActivity.class.getSimpleName();
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_about);
         setUpViews();
+
+        Log.i(TAG, "entrei");
+
     }
 
     private void setUpViews() {

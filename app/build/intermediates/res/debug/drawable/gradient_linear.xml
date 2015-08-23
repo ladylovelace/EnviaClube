@@ -8,4 +8,4 @@
         android:centerColor="@color/not_so_transparent"
         android:endColor="@color/even_less_transparent"
         android:angle="270"/>
-</shape><!-- From: file:/C:/Users/Song1/Documents/StudioProjects/cannonball-android/app/src/main/res/drawable/gradient_linear.xml -->
+</shape><!-- From: file:/C:/Users/Song1/Documents/StudioProjects/EnviaClube/app/src/main/res/drawable/gradient_linear.xml -->

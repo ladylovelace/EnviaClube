@@ -18,6 +18,7 @@ package io.fabric.samples.cannonball.activity;
 
 import android.app.ListActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.view.Window;
 import android.widget.ImageView;
@@ -42,6 +43,8 @@ public class PoemPopularActivity extends ListActivity {
         requestWindowFeature(Window.FEATURE_INDETERMINATE_PROGRESS);
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_tweet_list);
+
+        Log.i(TAG, "popular");
 
         setUpViews();
     }

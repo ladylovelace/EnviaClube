@@ -19,6 +19,7 @@ package io.fabric.samples.cannonball.activity;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -40,7 +41,9 @@ import io.fabric.samples.cannonball.SessionRecorder;
 
 public class LoginActivity extends Activity {
 
-    private TwitterLoginButton twitterButton;
+    private static final String TAG = LoginActivity.class.getSimpleName();
+
+    //private TwitterLoginButton twitterButton;
     private DigitsAuthButton phoneButton;
 
     @Override
@@ -48,14 +51,17 @@ public class LoginActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
         setUpViews();
+
+        Log.i(TAG,"entrei");
+
     }
 
     private void setUpViews() {
         setUpSkip();
-        setUpTwitterButton();
+        //setUpTwitterButton();
         setUpDigitsButton();
     }
-
+/*
     private void setUpTwitterButton() {
         twitterButton = (TwitterLoginButton) findViewById(R.id.twitter_button);
         twitterButton.setCallback(new Callback<TwitterSession>() {
@@ -74,7 +80,7 @@ public class LoginActivity extends Activity {
             }
         });
     }
-
+*/
     private void setUpDigitsButton() {
         phoneButton = (DigitsAuthButton) findViewById(R.id.phone_button);
         phoneButton.setAuthTheme(R.style.AppTheme);
@@ -111,7 +117,7 @@ public class LoginActivity extends Activity {
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
-        twitterButton.onActivityResult(requestCode, resultCode, data);
+        //twitterButton.onActivityResult(requestCode, resultCode, data);
     }
 
     private void startThemeChooser() {

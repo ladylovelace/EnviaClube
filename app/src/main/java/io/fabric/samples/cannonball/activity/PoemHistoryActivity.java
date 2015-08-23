@@ -90,7 +90,7 @@ public class PoemHistoryActivity extends Activity implements LoaderManager.Loade
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_poem_history);
-
+    Log.i(TAG,"entrei");
         setUpViews();
 
         getLoaderManager().initLoader(0, null, this);

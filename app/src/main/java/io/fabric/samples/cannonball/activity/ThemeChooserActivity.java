@@ -19,6 +19,7 @@ package io.fabric.samples.cannonball.activity;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ImageView;
@@ -33,12 +34,13 @@ import io.fabric.samples.cannonball.view.ThemeAdapter;
 
 public class ThemeChooserActivity extends Activity {
     public static final String IS_NEW_POEM = "ThemeChooser.IS_NEW_POEM";
-
+private static final String TAG = ThemeChooserActivity.class.getSimpleName();
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_theme_chooser);
         setUpViews();
+        Log.i(TAG,"entrei");
     }
 
     private void setUpViews() {

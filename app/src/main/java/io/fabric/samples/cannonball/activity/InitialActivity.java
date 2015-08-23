@@ -19,6 +19,7 @@ package io.fabric.samples.cannonball.activity;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 
 import com.twitter.sdk.android.Twitter;
 
@@ -31,9 +32,13 @@ import com.twitter.sdk.android.core.Session;
 
 public class InitialActivity extends Activity {
 
+    private static final String TAG = InitialActivity.class.getSimpleName();
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+        Log.i(TAG,"entrei");
 
         final Session activeSession = SessionRecorder.recordInitialSessionState(
                 Twitter.getSessionManager().getActiveSession(),
@@ -48,7 +53,8 @@ public class InitialActivity extends Activity {
     }
 
     private void startThemeActivity() {
-        startActivity(new Intent(this, ThemeChooserActivity.class));
+        //startActivity(new Intent(this, ThemeChooserActivity.class));
+        startActivity(new Intent(this,MapActivity.class));
     }
 
     private void startLoginActivity() {
