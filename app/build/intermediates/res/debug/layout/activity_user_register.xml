@@ -7,18 +7,22 @@
     android:background="@drawable/tela3"
     tools:context="io.fabric.samples.cannonball.activity.UserRegisterActivity">
 
-    <TextView android:text="@string/hello_world" android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/textView" />
-
     <Button
         android:layout_width="250dp"
         android:layout_height="50dp"
         android:id="@+id/button"
         android:background="@android:color/transparent"
         android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="50dp" />
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="30dp"
+        android:layout_height="40dp"
+        android:id="@+id/btnVoltar"
+        android:background="@android:color/transparent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
 
 </RelativeLayout>
 <!-- From: file:/C:/Users/Song1/Documents/StudioProjects/EnviaClube/app/src/main/res/layout/activity_user_register.xml -->

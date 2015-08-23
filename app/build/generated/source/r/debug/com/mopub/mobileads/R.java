@@ -8,12 +8,12 @@ package com.mopub.mobileads;
 
 public final class R {
 	public static final class id {
-		public static final int native_cta = 0x7f0d003e;
-		public static final int native_icon_image = 0x7f0d003a;
-		public static final int native_main_image = 0x7f0d003d;
-		public static final int native_outer_view = 0x7f0d0039;
-		public static final int native_text = 0x7f0d003c;
-		public static final int native_title = 0x7f0d003b;
+		public static final int native_cta = 0x7f0d003d;
+		public static final int native_icon_image = 0x7f0d0039;
+		public static final int native_main_image = 0x7f0d003c;
+		public static final int native_outer_view = 0x7f0d0038;
+		public static final int native_text = 0x7f0d003b;
+		public static final int native_title = 0x7f0d003a;
 	}
 	public static final class layout {
 		public static final int example_native_ad = 0x7f030013;

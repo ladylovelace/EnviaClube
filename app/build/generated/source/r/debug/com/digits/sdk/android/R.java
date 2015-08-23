@@ -82,34 +82,34 @@ public final class R {
 		public static final int tw__transparent = 0x7f02005b;
 	}
 	public static final class id {
-		public static final int dgts__confirmationEditText = 0x7f0d0023;
-		public static final int dgts__countryCode = 0x7f0d0030;
-		public static final int dgts__createAccount = 0x7f0d0024;
-		public static final int dgts__dismiss_button = 0x7f0d002e;
-		public static final int dgts__error_text = 0x7f0d002d;
-		public static final int dgts__error_title = 0x7f0d002c;
-		public static final int dgts__find_your_friends = 0x7f0d0028;
-		public static final int dgts__header_image = 0x7f0d0027;
-		public static final int dgts__logo_icon = 0x7f0d0034;
-		public static final int dgts__logo_name = 0x7f0d0035;
-		public static final int dgts__not_now = 0x7f0d002a;
-		public static final int dgts__okay = 0x7f0d002b;
-		public static final int dgts__phoneNumberEditText = 0x7f0d0031;
-		public static final int dgts__resendConfirmation = 0x7f0d0025;
-		public static final int dgts__sendCodeButton = 0x7f0d0032;
-		public static final int dgts__state_button = 0x7f0d0036;
-		public static final int dgts__state_progress = 0x7f0d0037;
-		public static final int dgts__state_success = 0x7f0d0038;
-		public static final int dgts__termsText = 0x7f0d0033;
-		public static final int dgts__termsTextCreateAccount = 0x7f0d0026;
-		public static final int dgts__try_another_phone = 0x7f0d002f;
-		public static final int dgts__upload_contacts = 0x7f0d0029;
+		public static final int dgts__confirmationEditText = 0x7f0d0022;
+		public static final int dgts__countryCode = 0x7f0d002f;
+		public static final int dgts__createAccount = 0x7f0d0023;
+		public static final int dgts__dismiss_button = 0x7f0d002d;
+		public static final int dgts__error_text = 0x7f0d002c;
+		public static final int dgts__error_title = 0x7f0d002b;
+		public static final int dgts__find_your_friends = 0x7f0d0027;
+		public static final int dgts__header_image = 0x7f0d0026;
+		public static final int dgts__logo_icon = 0x7f0d0033;
+		public static final int dgts__logo_name = 0x7f0d0034;
+		public static final int dgts__not_now = 0x7f0d0029;
+		public static final int dgts__okay = 0x7f0d002a;
+		public static final int dgts__phoneNumberEditText = 0x7f0d0030;
+		public static final int dgts__resendConfirmation = 0x7f0d0024;
+		public static final int dgts__sendCodeButton = 0x7f0d0031;
+		public static final int dgts__state_button = 0x7f0d0035;
+		public static final int dgts__state_progress = 0x7f0d0036;
+		public static final int dgts__state_success = 0x7f0d0037;
+		public static final int dgts__termsText = 0x7f0d0032;
+		public static final int dgts__termsTextCreateAccount = 0x7f0d0025;
+		public static final int dgts__try_another_phone = 0x7f0d002e;
+		public static final int dgts__upload_contacts = 0x7f0d0028;
 		public static final int imageView = 0x7f0d0005;
-		public static final int tw__allow_btn = 0x7f0d0054;
-		public static final int tw__not_now_btn = 0x7f0d0053;
-		public static final int tw__share_email_desc = 0x7f0d0052;
-		public static final int tw__spinner = 0x7f0d0051;
-		public static final int tw__web_view = 0x7f0d0050;
+		public static final int tw__allow_btn = 0x7f0d0053;
+		public static final int tw__not_now_btn = 0x7f0d0052;
+		public static final int tw__share_email_desc = 0x7f0d0051;
+		public static final int tw__spinner = 0x7f0d0050;
+		public static final int tw__web_view = 0x7f0d004f;
 	}
 	public static final class integer {
 	}
